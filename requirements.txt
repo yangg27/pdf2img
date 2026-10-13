@@ -1,0 +1,6 @@
+# 运行 PDF 转图片工具 所需依赖
+PyMuPDF>=1.23.0
+Pillow>=9.0.0
+
+# 可选：仅打包 exe 时需要
+# pyinstaller>=6.0.0
